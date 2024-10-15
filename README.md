@@ -1,5 +1,9 @@
 # pks3
 
+##Демонстрация работы приложения
+https://github.com/user-attachments/assets/1d6c2fe2-daf8-4b3e-a8f4-2988b4104a7a
+
+
 A new Flutter project.
 
 ## Getting Started
